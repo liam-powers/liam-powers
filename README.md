@@ -8,11 +8,9 @@
 ## Stats
 
 <a href = "https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-powers&layout=compact&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-powers&layout=compact&theme=vue" />
 </a>
 
-<br>
-<br>
 <br>
 <br>
 
