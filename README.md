@@ -12,4 +12,10 @@
 </a>
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=liam-powers&theme=vue" alt="GitHub Streak" /></a>
+<br>
+<br>
+<br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=liam-powers&theme=vue" alt="GitHub Streak" />
+</a>
