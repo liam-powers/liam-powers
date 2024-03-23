@@ -8,12 +8,12 @@
 ## Stats
 
 <a href = "https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-powers&layout=compact&theme=vue" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-powers&layout=compact" />
 </a>
 
 <br>
 <br>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=liam-powers&theme=vue" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=liam-powers" alt="GitHub Streak" />
 </a>
