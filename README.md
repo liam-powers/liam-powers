@@ -1,7 +1,7 @@
 # Liam Powers
 
 ## About Me
-* I like people, software, bass, video games, and the pursuit of optimal stimulus to fatigue ratio.
+* I like people, software, bass, video games, and the gym.
 * Currently pursuing a Bachelor's in Computer Science @ Northwestern University.
 * Searching for a 2024 Summer Internship.
 
