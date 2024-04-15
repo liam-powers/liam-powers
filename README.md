@@ -3,7 +3,6 @@
 ## About Me
 * I like people, software, bass, video games, and the gym.
 * Currently pursuing a Bachelor's in Computer Science with a minor in Data Science @ Northwestern University.
-* Searching for a 2024 Summer Internship.
 
 ## Stats
 
